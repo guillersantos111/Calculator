@@ -1,0 +1,13 @@
+D:\Projects\Calculator\bin\Debug\Calculator.exe.config
+D:\Projects\Calculator\bin\Debug\Calculator.exe
+D:\Projects\Calculator\bin\Debug\Calculator.pdb
+D:\Projects\Calculator\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Projects\Calculator\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Projects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Projects\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Projects\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Projects\Calculator\obj\Debug\Calculator.csproj.Up2Date
+D:\Projects\Calculator\obj\Debug\Calculator.exe
+D:\Projects\Calculator\obj\Debug\Calculator.pdb
+D:\Projects\Calculator\obj\Debug\Calculator.CalculatorForm.resources
